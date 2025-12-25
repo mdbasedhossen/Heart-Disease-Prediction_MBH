@@ -738,7 +738,7 @@ st.markdown("""
             <span style='font-size: 0.85em;'>Advanced Machine Learning for Medical Diagnosis</span>
         </p>
         <p style='margin: 10px 0 0 0; color: #7f8c8d; font-size: 0.8em;'>
-            © 2024-2025 All Rights Reserved by Md Hasibul Hasan
+            © 2024-2025 All Rights Reserved by MD BASED HOSSE(MBH)
         </p>
     </div>
 """, unsafe_allow_html=True)
