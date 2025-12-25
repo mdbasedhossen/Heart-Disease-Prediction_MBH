@@ -41,7 +41,7 @@ Network URL: http://192.168.0.104:8501
 
 ### Live Demo
 
-Visit: https://heart-disease-prediction-8xvkhtm6gtou53geq43ifc.streamlit.app/
+Visit:https://heart-disease-prediction-mbh-mdbasedhossen.streamlit.app/
 
 ## 📋 Input Parameters (13 Features)
 
