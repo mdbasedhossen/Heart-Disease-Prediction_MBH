@@ -35,7 +35,9 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-Access at: http://localhost:8501
+Local URL: http://localhost:8501
+Network URL: http://192.168.0.104:8501
+
 
 ### Live Demo
 
