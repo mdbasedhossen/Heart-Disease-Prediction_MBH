@@ -101,7 +101,7 @@ Always consult with a qualified healthcare professional.
 
 ## 👨‍💻 Developer
 
-**Md Hasibul Hasan**
+MD BASED HOSSEN (MBH)
 - Green University of Bangladesh
 - Computer Science & Engineering (Final Year)
 
